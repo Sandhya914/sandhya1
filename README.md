@@ -1,3 +1,2 @@
 # sandhya1
-
-github
+ management
